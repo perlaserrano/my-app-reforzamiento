@@ -2,8 +2,10 @@
 // import { Funciones } from "./typescript/Funciones";
 // import { ObjetosLiterales } from "./typescript/ObjetosLiterales";
 
+import { Usuarios } from "./components/Usuarios";
+
 // import { ContadorConHook } from "./components/ContadorConHook";
-import { Login } from "./components/Login";
+// import { Login } from "./components/Login";
 
  const App = () =>{
   return (
@@ -14,7 +16,8 @@ import { Login } from "./components/Login";
      {/* <ObjetosLiterales/> */}
      {/* <Funciones/> */}
      {/* <ContadorConHook/> */}
-     <Login/>
+     {/* <Login/> */}
+     <Usuarios/>
     </div>
   )
 }
