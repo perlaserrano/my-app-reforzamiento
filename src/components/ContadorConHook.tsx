@@ -2,7 +2,55 @@ import React, { Fragment } from "react";
 import { useCounter } from "../hook/useCounter";
 
 export const ContadorConHook = () => {
-  const { valor, acumular} = useCounter(100);
+  const { valor, acumular} = useCounter(100
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    );
 
     return (
         <Fragment>

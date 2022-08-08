@@ -2,6 +2,7 @@
 // import { Funciones } from "./typescript/Funciones";
 // import { ObjetosLiterales } from "./typescript/ObjetosLiterales";
 
+import { Formularios } from "./components/Formularios";
 import { Usuarios } from "./components/Usuarios";
 
 // import { ContadorConHook } from "./components/ContadorConHook";
@@ -18,6 +19,8 @@ import { Usuarios } from "./components/Usuarios";
      {/* <ContadorConHook/> */}
      {/* <Login/> */}
      <Usuarios/>
+     <Formularios/>
+     
     </div>
   )
 }
